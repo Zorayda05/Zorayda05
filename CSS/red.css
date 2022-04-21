@@ -1,0 +1,13 @@
+    body {background: url('C:/Users/zoray/Desktop/frontend/PROYECTO JS/img/edificio.jpg');
+    background-attachment: fixed;}
+    #logo {background-color:red;
+    }
+    #menu ul{background: #ccc;
+    }
+    #menu ul li:hover{background:red ;}
+    
+    #content h2  {color: red;}
+    .button-more {background:red;}
+    
+
+    8

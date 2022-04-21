@@ -1,0 +1,8 @@
+body {background:url('C:/Users/zoray/Desktop/frontend/PROYECTO JS/img/caracol.jpg');
+    background-attachment: fixed;}
+#logo {background-color: green;}
+#menu ul{background: #ccc;}  
+#menu ul li:hover{background:green;}
+#content h2  {color:green;}
+.button-more {background:green;}
+    
